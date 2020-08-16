@@ -6,4 +6,4 @@ draw box
 
 draw login page
 
-crated stores
+crated store
