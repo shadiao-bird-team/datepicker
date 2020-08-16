@@ -6,4 +6,4 @@ draw box
 
 draw login page
 
-crated store
+crated dong's store
